@@ -1,0 +1,7 @@
+name: MMOCoreBlock
+version: 30.06.2022
+main: com.quochungcyou.blockmmocore.Main
+api-version: '1.13'
+authors: [Quochungcyou]
+softdepend: [MMOCore, MythicMobs]
+description: Block difference damage level

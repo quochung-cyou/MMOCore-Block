@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Kod file backup/BuildTool 1.16/Spigot/Spigot-API/target/spigot-api-1.17.1-R0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/Kod file backup/1.16.5/plugins/MythicMobs-5.1.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/Kod file backup/1.16.5/plugins/[DL]-MMOCore-1.9.4 (1).jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
